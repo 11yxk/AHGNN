@@ -185,8 +185,7 @@ class HGNN(nn.Module):
 class HGNN_layer(nn.Module):
     """
         Writen by Shaocong Mo,
-        Computer Science and Technology, Zhejiang University,
-        mosc@zju.edu.cn
+        College of Computer Science and Technology, Zhejiang University,
     """
 
     def __init__(self, in_ch, node = None, K_neigs=None, kernel_size=5, stride=2):
