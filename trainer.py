@@ -123,6 +123,8 @@ def trainer_synapse(args, model, snapshot_path):
                 labs = label_batch[1, ...].unsqueeze(0) * 50
                 writer.add_image('train/GroundTruth', labs, iter_num)
 
+            iter_num+=1
+
 
 
         scheduler.step()
