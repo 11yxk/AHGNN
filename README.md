@@ -9,7 +9,7 @@ Our work has been accepted by MICCAI 2024.
 
 ![overview](https://github.com/11yxk/AHGNN/blob/main/overview.png)
 # Data Preparation
-We borrow the data process from [SAMed](https://github.com/hitachinsk/SAMed).
+We borrow the data process from [TransUnet](https://github.com/Beckschen/TransUNet).
 
 # Training & Testing
 
