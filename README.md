@@ -7,7 +7,7 @@ Pytorch implementation of paper [A Novel Adaptive Hypergraph Neural Network for 
 Our work has been accepted by MICCAI 2024.
 
 
-![overview](https://github.com/11yxk/SAM-LST/blob/main/overview.png)
+![overview](https://github.com/11yxk/AHGNN/blob/main/overview.png)
 # Data Preparation
 We borrow the data process from [SAMed](https://github.com/hitachinsk/SAMed).
 
