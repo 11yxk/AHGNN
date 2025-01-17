@@ -20,7 +20,7 @@ python train.py --name AHGNN --base_lr 0.002 --batch_size 8 --max_epochs 600
 ### Testing
 
 ```
-python test.py --is_savenii --output_dir <Your output directory> --my_ckpt <ckpt path>
+python test_loop_ds.py
 ```
 
 ### Pretrained Models
@@ -30,6 +30,6 @@ python test.py --is_savenii --output_dir <Your output directory> --my_ckpt <ckpt
 
 ## Acknowledgements
 
-This repo is based on [SAMed](https://github.com/hitachinsk/SAMed) and [TransUnet](https://github.com/Beckschen/TransUNet).
+This repo is based on [TransUnet](https://github.com/Beckschen/TransUNet).
 
 Thanks original authors for their work!
