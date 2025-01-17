@@ -25,7 +25,7 @@ python test_loop_ds.py
 
 ### Pretrained Models
 
-- Pretrained Models are available at .
+- Pretrained Models are available at https://drive.google.com/file/d/1oRRGuq_eDWEjauZZmowLu4m_57W3xqCc/view?usp=sharing .
 
 
 ## Acknowledgements
