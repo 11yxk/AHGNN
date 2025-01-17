@@ -15,7 +15,7 @@ We borrow the data process from [TransUnet](https://github.com/Beckschen/TransUN
 
 ### Training
 ```
-python train.py --root_path <Your folder> --output <Your output path> --warmup --AdamW 
+python train.py --name AHGNN --base_lr 0.002 --batch_size 8 --max_epochs 600
 ```
 ### Testing
 
