@@ -2,12 +2,17 @@
 
 # AHGNN
 
-Pytorch implementation of paper [A Novel Adaptive Hypergraph Neural Network for Enhancing Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/2689_paper.pdf).
+
+
+<!-- Pytorch implementation of paper [A Novel Adaptive Hypergraph Neural Network for Enhancing Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/2689_paper.pdf).
 
 Our work has been accepted by MICCAI 2024.
 
+![overview](https://github.com/11yxk/AHGNN/blob/main/overview.png) -->
 
-![overview](https://github.com/11yxk/AHGNN/blob/main/overview.png)
+Pytorch implementation of paper AHGNN: Enhanced Medical Image Segmentation with Adaptive Hypergraph Neural Network
+
+
 # Data Preparation
 We borrow the data process from [TransUnet](https://github.com/Beckschen/TransUNet).
 
